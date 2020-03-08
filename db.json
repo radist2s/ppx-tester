@@ -8,6 +8,7 @@
   },
   "get_photo": [
     {
+      "id": "bcee96e63f82401b32d1c828a8f109fd",
       "photo_id": "bcee96e63f82401b32d1c828a8f109fd",
       "automatic_transparent": "https://pro-product-pix-east.s3.amazonaws.com/public_folder/bcee96e63f82401b32d1c828a8f109fd/0125fb1f6fa3e0a0ce616e522033c9b6.png",
       "manual_transparent": "https://pro-product-pix-east.s3.amazonaws.com/annotated_folder/bcee96e63f82401b32d1c828a8f109fd/0125fb1f6fa3e0a0ce616e522033c9b6.png",
@@ -15,6 +16,7 @@
       "manual_square": "https://pro-product-pix-east.s3.amazonaws.com/final_folder/bcee96e63f82401b32d1c828a8f109fd/0125fb1f6fa3e0a0ce616e522033c9b6_sqr.jpg"
     },
     {
+      "id": "74cd1fb197934cfe346b2e09f548b5b8",
       "photo_id": "74cd1fb197934cfe346b2e09f548b5b8",
       "automatic_transparent": "https://pro-product-pix-east.s3.amazonaws.com/public_folder/bcee96e63f82401b32d1c828a8f109fd/0125fb1f6fa3e0a0ce616e522033c9b6.png",
       "manual_transparent": "https://pro-product-pix-east.s3.amazonaws.com/annotated_folder/bcee96e63f82401b32d1c828a8f109fd/0125fb1f6fa3e0a0ce616e522033c9b6.png",
